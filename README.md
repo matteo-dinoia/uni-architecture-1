@@ -1,2 +1,2 @@
-# Scuola_RISC_V
+# RISC V 
 Some excercise done during the course of Computer Architecture I at university.
